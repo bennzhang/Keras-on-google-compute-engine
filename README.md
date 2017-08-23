@@ -196,7 +196,7 @@ Free memory: 11.11GiB
 mnist_deep.py
 
 ```
-(datascience) $ python  --data_dir data
+(datascience) $ python mnist_deep.py --data_dir data
 Extracting data/train-images-idx3-ubyte.gz
 Extracting data/train-labels-idx1-ubyte.gz
 Extracting data/t10k-images-idx3-ubyte.gz
