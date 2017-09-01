@@ -1,0 +1,4 @@
+futures
+tensorflow
+tensorflow-gpu
+Keras
